@@ -123,4 +123,4 @@ personality-model/
 - Add **multilingual support**
 - Expand dataset for more diverse career coverage
 - Improve accuracy with **deep learning models**
-# Trigger language refresh 
+
